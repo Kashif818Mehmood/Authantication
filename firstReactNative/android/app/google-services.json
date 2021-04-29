@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822079441299",
+    "project_id": "rnfirstexapmlee",
+    "storage_bucket": "rnfirstexapmlee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822079441299:android:c0c4f4ea99427ec5cb8066",
+        "android_client_info": {
+          "package_name": "com.firstreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822079441299-46qm7k1qad053cev00bqv3v9dvoksk9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe7t_0jmTKvN-1qLa5fvVcZtlA7LWLiTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822079441299-46qm7k1qad053cev00bqv3v9dvoksk9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
